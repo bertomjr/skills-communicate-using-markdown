@@ -7,5 +7,8 @@
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 
 $ git init
+```python
 message = "Hello World!"
 print(message)
+```
+
